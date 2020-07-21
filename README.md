@@ -1,2 +1,2 @@
-# Swagger2Demo
+# SwaggerDemo
 Study Springboot with Swagger
